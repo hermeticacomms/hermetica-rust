@@ -4,7 +4,7 @@ Generated from `docs/api/openapi.json` by `node scripts/gen-sdks.mjs` (2524 oper
 
 ```toml
 [dependencies]
-hermeticacomms = "0.1.0"
+hermeticacomms = "0.4.0"
 ```
 
 ```rust
